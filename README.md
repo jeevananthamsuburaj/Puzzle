@@ -13,10 +13,12 @@ A fun and interactive puzzle game built with **React**. Challenge your logic and
 
 ---
 
-## 📸 Screenshots
+
 ## 📸 Screenshot
 
-![Puzzle Game Screenshot]()
+![Puzzle Game Screenshot]("https://github.com/jeevananthamsuburaj/Puzzle/blob/060f94bbaf66decb1ce36bacf9ba8d9e2f3e416d/Puzzle.png")
+![Puzzle Game Screenshot]("")
+![Puzzle Game Screenshot]("")
 
 
 ---
