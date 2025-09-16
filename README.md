@@ -5,25 +5,6 @@ A fun and interactive puzzle game built with **React**. Challenge your logic and
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Play the Game](https://your-live-demo-link.com)
-
-📁 [GitHub Repository](https://github.com/yourusername/your-repo-name)
-
-
----
-
-
-## 📸 Screenshot
-
-![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/bc11026b37d3bfc2cdbbb9481533dfdfeabad36d/Puzzle.png)
-![Puzzle Game Screenshot]("")
-![Puzzle Game Screenshot]("")
-
-
----
-
 ## 🎯 Features
 
 - 🧠 Challenging puzzle mechanics
@@ -33,6 +14,20 @@ A fun and interactive puzzle game built with **React**. Challenge your logic and
 - ⏱️ Optional timer and move counter
 
 ---
+
+
+
+
+## 📸 Screenshot
+
+![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/bc11026b37d3bfc2cdbbb9481533dfdfeabad36d/Puzzle.png)
+![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/4f125abeea8e53f80cde4a9a281b6b8a90027147/Puzzle2.png)
+![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/4f125abeea8e53f80cde4a9a281b6b8a90027147/Puzzle2.png)
+
+
+---
+
+
 
 ## 🔧 Tech Stack
 
