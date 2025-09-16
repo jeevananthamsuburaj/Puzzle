@@ -17,7 +17,7 @@ A fun and interactive puzzle game built with **React**. Challenge your logic and
 
 ## 📸 Screenshot
 
-![webpage](https://github.com/jeevananthamsuburaj/jeeva-portfolio/blob/d2c5913717d3255653dac86f8a5b4124f386ed61/jeeva.website.jpeg)
+![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/bc11026b37d3bfc2cdbbb9481533dfdfeabad36d/Puzzle.png)
 ![Puzzle Game Screenshot]("")
 ![Puzzle Game Screenshot]("")
 
