@@ -14,9 +14,10 @@ A fun and interactive puzzle game built with **React**. Challenge your logic and
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshot
 
-<!-- Uncomment and replace if you have screenshots -->
-<!-- ![Game Screenshot](./screenshots/screenshot1.png) -->
+![Puzzle Game Screenshot]()
+
 
 ---
 
