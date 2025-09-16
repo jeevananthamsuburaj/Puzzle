@@ -22,7 +22,7 @@ A fun and interactive puzzle game built with **React**. Challenge your logic and
 
 ![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/bc11026b37d3bfc2cdbbb9481533dfdfeabad36d/Puzzle.png)
 ![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/4f125abeea8e53f80cde4a9a281b6b8a90027147/Puzzle2.png)
-![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/4f125abeea8e53f80cde4a9a281b6b8a90027147/Puzzle2.png)
+![webpage](https://github.com/jeevananthamsuburaj/Puzzle/blob/1b16ac672d077d0733a25ca862524a03159798e6/Responsive.jpeg)
 
 
 ---
