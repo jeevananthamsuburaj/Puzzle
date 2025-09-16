@@ -11,12 +11,13 @@ A fun and interactive puzzle game built with **React**. Challenge your logic and
 
 📁 [GitHub Repository](https://github.com/yourusername/your-repo-name)
 
+
 ---
 
 
 ## 📸 Screenshot
 
-![Puzzle Game Screenshot]("https://github.com/jeevananthamsuburaj/Puzzle/blob/060f94bbaf66decb1ce36bacf9ba8d9e2f3e416d/Puzzle.png")
+![webpage](https://github.com/jeevananthamsuburaj/jeeva-portfolio/blob/d2c5913717d3255653dac86f8a5b4124f386ed61/jeeva.website.jpeg)
 ![Puzzle Game Screenshot]("")
 ![Puzzle Game Screenshot]("")
 
